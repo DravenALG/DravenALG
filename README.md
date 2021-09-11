@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋, I'm Xiao-Ming Wu(Draven)
+
+🔭I am currently an undergraduate student at Shandong University and I am pursuing a graduate degree. I will share some of my interesting small projects and scientific research code here, hoping to help you.
+
+🌱I am now interested in computer vision, information retrieval, and machine learning.
+
+
 
 <!--
 **DravenALG/DravenALG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
