@@ -4,6 +4,8 @@
 
 🌱I am now interested in computer vision, information retrieval, and machine learning.
 
+![info](https://github-readme-stats.vercel.app/api?username=DravenALG&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 
 
 <!--
