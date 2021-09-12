@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Xiao-Ming Wu(Draven)
 
-🔭I am currently an undergraduate student at Shandong University and I am pursuing a graduate degree. I will share some of my interesting small projects and scientific research code here, hoping to help you.
+🔭I am currently an undergraduate student at Shandong University and I am pursuing a master's degree. I will share some of my interesting small projects and scientific research code here, hoping to help you.
 
 🌱I am now interested in computer vision, information retrieval, and machine learning.
 
