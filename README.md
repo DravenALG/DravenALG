@@ -4,9 +4,7 @@
 
 🌱I am now interested in computer vision, information retrieval, and machine learning.
 
-![](https://visitor-badge.glitch.me/badge?page_id=DravenALG.readme)
-
-![info](https://github-readme-stats.vercel.app/api?username=DravenALG&show_icons=true&count_private=true&hide=prs&theme=dark)
+![info](https://github-readme-stats.vercel.app/api?username=DravenALG&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 
