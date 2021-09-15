@@ -1,10 +1,20 @@
-### Hi 👋, I'm Xiao-Ming Wu(Draven)
+### Hi , I'm Xiao-Ming Wu(Draven) 👋
 
-🔭I am currently an undergraduate student at Shandong University and I am pursuing a master's degree. I will share some of my interesting small projects and scientific research code here, hoping to help you.
+📫**Brief CV** : I am currently an undergraduate student at Shandong University and I am pursuing a master's degree. I will share some interesting projects and open source code of my first-author scientific work, hoping to help you.
 
-🌱I am now interested in computer vision, information retrieval, and machine learning.
+
+
+🌱**Research Interest** : 
+
+- Computer Vision
+- Information Retrieval
+- Machine Learning
+
+
 
 ![info](https://github-readme-stats.vercel.app/api?username=DravenALG&show_icons=true&count_private=true&hide=prs&theme=gruvbox)
+
+
 
 
 
