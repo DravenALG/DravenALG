@@ -7,6 +7,8 @@
 - Computer Vision
 - Information Retrieval  
 
+😄**Personal Page**: My personal homepage is ALG, which has a more detailed personal introduction.
+
 ![info](https://github-readme-stats.vercel.app/api?username=DravenALG&show_icons=true&count_private=true&hide=prs&theme=gruvbox)
 
 
