@@ -5,10 +5,10 @@
 
 
 🌱**Research Interest** : 
-
+- Machine Learning
 - Computer Vision
 - Information Retrieval
-- Machine Learning
+
 
 
 
