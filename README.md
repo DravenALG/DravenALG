@@ -1,7 +1,7 @@
 ### Hi , I'm Xiao-Ming Wu(Draven) 👋
 
 📫**Brief CV** :   
-I am currently an undergraduate student at Shandong University, and I will continue to pursue a master's degree at Sun Yat-Sen University. I will share some interesting projects and open source code of my first-author scientific work, hoping to help you.  
+I am currently an undergraduate student at Shandong University, and I will continue to pursue a master's degree at Sun Yat-Sen University. I will share some interesting projects and open source code of my first-author research, hoping to help you.  
 
 🌱**Research Interest** : 
 - Machine Learning
