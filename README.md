@@ -11,8 +11,6 @@ I am currently an undergraduate student at Shandong University, and I will conti
 😄**Personal Page**:   
 My personal homepage is https://dravenalg.github.io/, which has a more detailed introduction about me.
 
-![info](https://github-readme-stats.vercel.app/api?username=DravenALG&show_icons=true&count_private=true&hide=prs&theme=gruvbox)
-
 
 <!--
 **DravenALG/DravenALG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
